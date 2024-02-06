@@ -1,0 +1,7 @@
+print ('Bienvenido')
+print ('Ingresa tus datos')
+nombre = input ('Nombre(s): ')
+apellidos = input ('Apellidos: ')
+numero_de_telefono = input ('Número de teléfono: ')
+correo_electronico = input ('Correo electrónico: ')
+print ('Hola',nombre,'en breve recibirás un correo a:',correo_electronico)
